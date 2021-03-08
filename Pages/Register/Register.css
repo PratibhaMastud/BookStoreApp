@@ -1,0 +1,44 @@
+.boot-reg{
+    width: 420px;
+    height: 550px;
+    border-color: darkslategrey;
+    border: 1px solid #d6d7da;
+    border-radius: 5px;
+    font-family: arial, sans-serif;
+    line-height: 16px;
+    font-size: 14px;
+    background: #ffffff;
+    margin: 100px auto;
+}
+.textSignup {
+  padding: 10px 15px 0px 15px;
+  display: flex;
+  justify-content: center;
+  font-size: large;
+}
+h3{
+    color: rgb(163, 10, 10);
+    font-weight: 700;
+    margin-top: 20px;
+}
+.btn-SignUp {
+    margin-bottom: 15px;
+}
+.color-Reg{
+    background-color: #8d0c19;
+    color: #ffffff;
+  }
+  .color-title-reg{
+    background-color: #ffffff;
+    color: #8d0c19;
+  }
+  .span-reg {
+    height: 30px;
+   padding: 5px 15px 5px 15px;
+  }
+  .textfield-reg{
+      padding: 10px 15px 0px 15px;
+  }
+  .text-reg{
+    padding: 5px 15px 0px 15px;
+}

@@ -1,0 +1,201 @@
+
+
+    .cart-Added{
+        margin-top: 60px;
+    }
+    .text-size-all{
+        font-size: small;
+    }
+    .bookAdd-image{
+        /* width: 100px;
+    height: 10vh; */
+    width: 150px;
+    height: 20vh;
+    }
+    .cartAdded-image{
+        width: 100px;
+    height: 20vh;
+    margin-left: 50px;
+    }
+    label{
+        font-size: small;
+    }
+    .text{
+        font-family: sans-serif; 
+        margin-left: 10px;   
+    }
+    .price{
+        font-size: small;
+        margin-left: 10px;
+    }
+    .auther{
+        font-size: small;
+        font-family: sans-serif;  
+        margin-left: 10px;
+    }
+    .cart-title{
+        font-size: medium;
+        font-family: sans-serif;  
+        margin-left: 10px; 
+    }
+    
+    .book-detail{
+        height: 10vh;
+        
+    }
+    .footer{
+        width: 100%;
+    }
+    .place-btn{
+        display: flex;
+        justify-content: space-between;
+    }
+    .cart-flex{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    @media screen and (max-width: 600px) {
+        .cartAdded-image{
+            margin-left: 20px;
+        }
+      }
+      .book-size{
+        width: 30px;
+        height: 20px;
+        text-align: center;
+      }
+      .book-icon{
+        width: 20px;
+        height: 20px;
+        text-align: center;
+      }
+      .main-customer-form{
+        width: 660px;
+        display: flex;
+        justify-content: center;
+        margin-left: 250px;
+      }
+      .main-form{
+          width: 660px;
+          border-color: darkslategrey;
+        border: 1px solid #d6d7da;
+        margin-top: 20px;
+      }
+      .div-underform{
+          padding:  0px 30px 30px 30px;
+      }
+      @media screen and (max-width: 600px) {
+        .main-form{
+            width: 350px;
+        }
+      }
+      @media screen and (max-width: 600px) {
+        .main-customer-form{
+            margin-left: 0px;
+        } 
+        .radio-m{
+            margin-right: 30px;
+        }
+        .div-underform{
+            padding:  0px 15px 30px 20px;
+        }
+      }
+      textarea{
+          width: 410px;
+          border-color: lightgrey;
+          resize: none;
+      }
+      @media screen and (max-width: 600px) {
+        .name-main{
+            width: 300px;
+        } 
+        .input-div{
+            width: 150px;
+        }
+    }
+    @media screen and (max-width: 600px) {
+        .area {
+            width: 310px;
+        }
+        textarea{
+            width: 310px;
+        }
+        .checkout {
+            padding: 0px 20px 40px 10px;
+
+        } 
+    }
+      .name-main{
+        display: flex;
+        flex-direction: row;
+        width: 650px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+      }
+      .area{
+          width: 410px;
+      }
+      .input-div{
+          margin-right: 10px;
+      }
+      .single-input{
+          width: 410px;
+          margin-bottom: 10px;
+      }
+      /* textarea {
+        resize: none;
+      } */
+      .radio-main{
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: row;
+        padding: 5px 25px 10px 25px;
+      }
+      .radio-m{
+          margin-right: 70px;
+          margin-left: 10px;
+      }
+      .cust-btn{
+        display: flex;
+        justify-content: flex-end;
+      }
+      .continue{
+    width: 110px;
+    background-color: #1c61ab;
+      }
+.openCust{
+    margin-left: 30px;
+    padding: 20px 0px 20px 0px;
+}
+.order-card{
+    display: flex;
+    flex-direction: row;
+}
+.checkout{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 20px 0px 10px;
+}
+.btn-c{
+    background-color: #fff;
+    color: gray;
+    border-color:white ;
+    border: none;
+}
+.m-icon{
+    margin-left: 4px;
+}
+.span-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    margin-top: 5px;
+    padding: 5px;
+}
+.minadd-m{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}

@@ -1,0 +1,87 @@
+.navbar-h{
+    background-color: #8d0c19!important;
+    height: 50px;
+    width: 100%;
+    margin: 0px;
+}
+.text-appbar{
+    color: #fff;
+    font-size: large;
+    margin-top: 10px;
+}
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.cart-end {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.booktitle{
+    margin-left: 140px;
+    color: #fff;
+    font-size: large;
+    font-family: sans-serif;
+
+}
+.dashboard{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+.nav-item{
+    display: flex;
+    width: 100%;
+}
+.img-div{
+    width: 25px;
+    color: #fff;  
+}
+.color-out{
+    color: #ffffff;
+}
+.serch-div{
+    padding: 5px;
+}
+.search{
+    width: 430px;
+   margin-left: 10px;
+   padding: 5px;
+   height: 5vh;
+    margin-top: 4px;
+}
+.bookicon{
+    margin-left: 120px;
+}
+.display-book {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.book-count-rel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+@media screen and (max-width: 600px) {
+    .search {
+     width: 140px;
+    } 
+  }
+  @media screen and (max-width: 600px) { 
+    .navbar-h
+    {
+        margin: 0px;
+    }   
+  }
+  @media screen and (max-width: 600px) {
+    .dashboard{
+        margin: 0px;
+    }   
+  }
+ 

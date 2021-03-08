@@ -1,0 +1,30 @@
+.main-thank{
+    height: 100vh;
+    background-color: #fff;
+}
+.text-app{
+    color: #fff;
+    font-size: large;
+    margin-top: 5px;
+}
+.img-thank{
+    width: 25px;
+    color: #fff;  
+}
+.navb{
+    display: flex;
+    justify-content: flex-start;
+    background-color:  #8d0c19!important;
+    height: 9vh;
+    }
+    .body-thank{
+        height: 83vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    .continue{
+        width: 110px;
+        background-color: #8d0c19;
+          }

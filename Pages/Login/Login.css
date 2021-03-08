@@ -1,0 +1,58 @@
+.box{
+    width: 420px;
+    height: 400px;
+    border-color: darkslategrey;
+    border: 1px solid #d6d7da;
+    border-radius: 5px;
+    font-family: arial, sans-serif;
+    line-height: 16px;
+    font-size: 14px;
+    background: #ffffff;
+    margin: 100px auto;
+}
+.input-log {
+    margin-top: 20px;
+}
+.btn-Login {
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.link-signIn {
+    margin-top: 10px;
+}
+.snackbar {
+    min-width: 250px; 
+    background-color:darkcyan;
+    color: rgb(223, 31, 31); 
+    text-align: center; 
+    border-radius: 2px; 
+    padding: 16px; 
+    position: absolute; 
+    /* z-index: 1; 
+    left: 50%; 
+    bottom: 30px;  */
+  }
+  .color{
+    background-color: #8d0c19;
+    color: #ffffff;
+  }
+  .color-title{
+    background-color: #ffffff;
+    color: #8d0c19;
+  }
+  .span {
+    height: 30px;
+   padding: 5px 15px 5px 15px;
+  }
+  .textfield{
+      padding: 10px 15px 0px 15px;
+  }
+  .text{
+    padding: 5px 15px 0px 15px;
+}
+.textSignup {
+  padding: 10px 15px 0px 15px;
+  display: flex;
+  justify-content: center;
+  font-size: large;
+}
